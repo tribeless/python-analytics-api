@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+sqlmodel
+pydantic
+SQLAlchemy
+timescaledb
+python-decouple
+psycopg[binary]
